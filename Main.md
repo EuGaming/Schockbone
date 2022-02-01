@@ -1,4 +1,5 @@
 # Schockbone
 https://discord.gg/mori0
 
-just a nohter hacking team for minecraft.
+Just a hacking team for minecraft.
+yea another one
