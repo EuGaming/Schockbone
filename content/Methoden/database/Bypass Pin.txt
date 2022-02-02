@@ -1,0 +1,3 @@
+As bypass the / pin of some server, well this is the easiest thing To bypasse the StaffSecure plugin what you would have
+what to do is place / pin [command that you want to execute] This is very helpful, since you could disable the plugin
+and literally bypassing it or throwing it with ddos ??or jigsaw is another option.

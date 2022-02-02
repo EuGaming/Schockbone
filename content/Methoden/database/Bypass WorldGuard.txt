@@ -1,0 +1,7 @@
+ 1)
+/rg list
+/rg addowner Lobby (nick)
+
+
+ 2)
+/plugman disable WorldGuard

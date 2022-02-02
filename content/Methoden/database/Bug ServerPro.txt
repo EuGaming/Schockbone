@@ -1,0 +1,5 @@
+To bypasse an IPWhitelist from server.pro the only thing you should
+do is go asking for servers until they give you one with the same ip
+when you have it you put bungeecord you put the owner's nick
+you go to the configuration of the bungeecord you place the ip and the port dela modality
+from the server that you are going to grifar you enter through the bungeecord and BOOM! Bypassed

@@ -1,0 +1,9 @@
+Well, this consists of bypassing the security of the account, this is easy.
+
+DymethClient:
+
+True Nick: iNever (EXAMPLE)
+Nick False: iNever2 (EXAMPLE)
+False IP: 1.13.1.3
+
+This will bypasseara, you just have to enter and exit until you get to enter
