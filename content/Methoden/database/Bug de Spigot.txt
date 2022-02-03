@@ -1,8 +1,0 @@
-For example some servers have the command
-/execute unlocked you must use
-
-/execute [nick] 0 0 0 diamond_sword /pex user [nick] add *
-
-You must place a diamond sword to be placed
-since we are assigning that the diamond sword will give you the
-infinite permissions

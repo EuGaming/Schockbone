@@ -1,3 +1,0 @@
-To bypass the / premiun you only need, an offline bungeecord server to place the ip of the server and enter
-from the ip that you placed when you made, you go to the skillclient and place the name of the premiun and uncheck
-the option of UUID - Cracked once done this you enter from the bungeecord off line and the bypasses it only serves 1 time by restart of pc

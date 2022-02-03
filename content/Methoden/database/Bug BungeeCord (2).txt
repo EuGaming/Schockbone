@@ -1,4 +1,0 @@
-Join on nick: md_5
-/send
-/alert
-/server

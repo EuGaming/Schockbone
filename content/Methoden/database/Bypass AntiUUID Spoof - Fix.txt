@@ -1,3 +1,0 @@
-Bypassing the AntiUUIDSpoof Well, this depends on the version of the Plugin since it works in the AntiUUID Spoof - Fix
-to bypasse it you have to place the ip of the server in the dymeth client, and that the UUID of the player is not pirated
-so that the Plugin is completely, buged

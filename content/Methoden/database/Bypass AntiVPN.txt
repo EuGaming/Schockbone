@@ -1,4 +1,0 @@
-To bypasse the AntiVPN the only thing, what you should do is create a Bungeecord Online or not Online
-add the IP of the server, which you want to Bypasse and then put the Bungeecord once this is done
-you enter from the Bungeecord to the server and it would already be Bypass only serve once, or it depends on the type
-of AntiVPN or Server Configuration.

@@ -1,2 +1,0 @@
-You put the ip 0.0.0.0 and if it does not put colocate the ip 1.1.1.1 or 127.0.0.3 
-with the client dymeth and with this the bypasseas
